@@ -1,0 +1,8 @@
+,RetornoOperacao,AlunoID,Nome,CPF,RG,Midia,DataNascimento,CEP,Endereco,NumeroEndereco,Email,DataCadastro,RA,LoginPortal,SenhaPortal,Observacao,Telefone,Celular,TurmaAtual,ResponsavelFinanceiroID,ResponsavelDidaticoID,NumeroMatricula,Sexo,Situacao,Cidade,Bairro,CidadeNatal,Inadimplente,Origem,NomeOrigem,CursoInteresse,Responsaveis
+0,01 - Operação Realizada com Sucesso.,197,Abner Garcia,,,,01/01/1900,,,,,20/03/2023,,,,,(00)00000-2444,,,0,0,,M,Interessado,,,,Não,0,,;,
+1,01 - Operação Realizada com Sucesso.,196,Aluno tal,,,,,,,,,20/03/2023,,,,,(00)00000-0024,,,0,0,,M,Interessado,,,,Não,0,,;,
+2,01 - Operação Realizada com Sucesso.,192,Ana Carolina,,,,,,,,,20/03/2023,,,,,(00)00000-0011,,,0,0,,M,Interessado,,,,Não,0,,;,
+3,01 - Operação Realizada com Sucesso.,194,Fabio Crepaldi,,,,,,,,,20/03/2023,,,,,(00)00000-0333,,,0,0,,M,Interessado,,,,Não,0,,;,
+4,01 - Operação Realizada com Sucesso.,195,Fabiozão do TI,,,,,,,,,20/03/2023,,,,,(00)00000-0024,,,0,0,,M,Interessado,,,,Não,0,,;,
+5,01 - Operação Realizada com Sucesso.,193,Luana Alves,,,,,,,,,20/03/2023,,,,,(00)00000-2222,,,0,0,,M,Interessado,,,,Não,0,,;,
+6,01 - Operação Realizada com Sucesso.,191,Luiz Ricardo,,,,12/04/2000,,,,,20/03/2023,,,,,(35)99205-4006,,,0,0,,M,Interessado,,,,Não,0,,;,
